@@ -8,6 +8,6 @@ Moro em Palmitópolis
 Gosto de gatos 
 Estou estudando no Alura
 Estou me desenvolvendo na linguagem JavaScript
-Utiliso esse espaço para minha organização e 
+Utilizo esse espaço para minha organização e 
 Compartilhamento dos meus projetos desenvolvidos.
 E gosto de Jogar e dormir
